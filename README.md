@@ -1,1 +1,1 @@
-# Capstone-Project
+# Capstone-Project of IIT-G
